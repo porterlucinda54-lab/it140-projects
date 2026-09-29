@@ -25,7 +25,9 @@ Project One requires a minimum of eight rooms.
 5. TODO: Room
 6. TODO: Room
 7. TODO: Room
-8. TODO: Villain room
+8. TODO: Villain room<img width="845" height="636" alt="gma_storyboard md" src="https://github.com/user-attachments/assets/f09ece9f-b6af-4fb0-8869-b1e872e6be2c" />
+<img width="718" height="618" alt="game_storyboard md" src="https://github.com/user-attachments/assets/0825d614-e8a0-4b1b-b5eb-21c52f574bbb" />
+
 
 Add more rooms if your design needs them.
 
